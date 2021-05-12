@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.cliker{
+  display: inline-block;
+}
+Link{
+  text-decoration: none;
+}
+
+
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+/* #author */
+td,  th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+/* #author */
+tr:nth-child(even){background-color: #f2f2f2;}
+/* #author */
+ tr:hover {background-color: #ddd;}
+  
+
+/* #author */
+ th {
+  padding-top: 12px;    
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #171b17;
+  color: white;
+}
+
+.error-text{
+  color: red;
+}
+
+.detailchi{
+  margin-left: 50px;
+}
+
+.detailhandler{
+
+margin-top: 30px;
+  width: 400px;
+  display: inline-block;
+  border: solid ; 
+}
+
+.entrnal-w{
+  border: solid;
+  display: inline-block;
+  padding: 20px;
+}
+
+.first-c{
+  
+  display: inline-block;
+  text-align: left;
+}
+.second-c{
+  
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin:0 8px ;
+}
+
+.bttn {
+  background-color: rgba(141, 22, 22, 0.795); 
+  border: none; 
+  color: white; 
+  padding: 12px 16px; 
+  font-size: 16px; 
+  cursor: pointer; 
+  position: absolute;
+  right: 220px;
+}
+.registerli{
+  display: inline-block;
+  
+}
